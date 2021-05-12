@@ -7,7 +7,7 @@
 
 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/eduardohonoratoo/)](https://www.facebook.com/eduardohonoratoo/)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/EduardoHonorato/)](https://www.linkedin.com/in/EduardoHonorato/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduhonorato/)](https://www.linkedin.com/in/eduhonorato/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:dev.honorato@gmail.com)](mailto:dev.honorato@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/dudu.honorato/)](https://instagram.com/dudu.honorato)
 [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-green?style=plastic&logo=WhatsApp&logoColor=white&link=https://wa.me/05512991096938/)](https://wa.me/05512991096938)
@@ -49,7 +49,7 @@ const honorato = {
 
 **🐱 My Github Data** 
 
-> 🏆 18 Contributions in the Year 2020
+> 🏆 83 Contributions in the Year 2020
  > 
 > 📦 344.1 kB Used in Github's Storage 
  > 
