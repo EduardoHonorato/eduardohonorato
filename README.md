@@ -1,6 +1,6 @@
 <h2>Hello, I'm Eduardo Honorato!</h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Front-End Developer <a href="https://www.bancoinbursa.com.br">Banco Inbursa</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Front-End Developer <a href="http://www.bancoinbursa.com.br/">Banco Inbursa</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 ### You can talk to me through the links below
