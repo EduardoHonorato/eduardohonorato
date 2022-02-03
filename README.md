@@ -18,10 +18,10 @@
 const honorato = {
     pronouns: "He" | "Him",
     code: ["JavaScript", "Html 5", "Css 3", "Php 7.x"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    askMeAbout: ["web dev", "tech", "app dev"],
     technologies: {
         backEnd: {
-            ServerSide: ["PHP 7.x"]
+            ServerSide: ["PHP 7.x", "NODE JS"]
         },
         frontEnd: {
             js: ["JavaScript", "jQuery", "React JS"],
