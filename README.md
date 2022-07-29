@@ -17,11 +17,11 @@
 ```javascript
 const honorato = {
     pronouns: "He" | "Him",
-    code: ["JavaScript", "Html 5", "Css 3", "Php 7.x"],
+    code: ["JavaScript", "Html 5", "Css 3", "Php 7.x", "React JS", "React Native"],
     askMeAbout: ["web dev", "tech", "app dev"],
     technologies: {
         backEnd: {
-            ServerSide: ["PHP 7.x", "NODE JS"]
+            ServerSide: ["PHP 7.x"]
         },
         frontEnd: {
             js: ["JavaScript", "jQuery", "React JS"],
@@ -33,9 +33,9 @@ const honorato = {
         },
         devOps: ["Azure DevOps"],
         databases: ["MySql"],
-        misc: ["UI design", "UX design", "CD/CI", "Jenkins"]
+        misc: ["UI design", "Prototyping"]
     },
-    currentFocus: "Mobile App Development with React Native",
+    currentFocus: "Mobile App Development with React Native or Web development with React JS",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
