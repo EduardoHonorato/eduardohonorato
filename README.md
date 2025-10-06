@@ -17,15 +17,15 @@
 ```javascript
 const honorato = {
     pronouns: "He" | "Him",
-    code: ["JavaScript", "Html 5", "Css 3", "Php 7.x", "React JS", "React Native"],
+    code: ["JavaScript", "Html 5", "Css 3", "Php 7.x", "React JS", "React Native", "Vue.js", "Node.js"],
     askMeAbout: ["web dev", "tech", "app dev"],
     technologies: {
         backEnd: {
             ServerSide: ["PHP 7.x"]
         },
         frontEnd: {
-            js: ["JavaScript", "jQuery", "React JS"],
-            css: ["Materialize", "Bootstrap", "Css 3"],
+            js: ["JavaScript", "jQuery", "React JS", "React Native", "Vue.js", "Node.js"],
+            css: ["Materialize", "Bootstrap", "Css 3", "Tailwind", "chadcn"],
             html: ["Html 5"]
         },
         mobileApp: {
